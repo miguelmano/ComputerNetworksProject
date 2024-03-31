@@ -1,0 +1,4 @@
+     Active game found for player 096860
+     Game started - no transactions found
+     Solved so far: -----------
+

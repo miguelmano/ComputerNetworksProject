@@ -1,0 +1,18 @@
+RSB OK TOPSCORES_0220601.txt 915 
+-------------------------------- TOP 10 SCORES --------------------------------
+
+    SCORE PLAYER     WORD                             GOOD TRIALS  TOTAL TRIALS
+
+ 1 - 100  100670  abracadabra                             3             3 
+ 2 - 100  099344  decarbonization                         1             1 
+ 3 - 100  099344  chlorobenzylidenemalononitrile          2             2 
+ 4 - 100  099328  abracadabra                             2             2 
+ 5 - 100  099328  joker                                   1             1 
+ 6 - 100  099328  barracuda                               2             2 
+ 7 - 100  099328  usb                                     1             1 
+ 8 - 100  099328  observation                             5             5 
+ 9 - 100  099328  joker                                   2             2 
+10 - 100  099323  stratocruiser                           8             8 
+
+
+
